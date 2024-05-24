@@ -1,1 +1,1 @@
-#JavaScript MessageGenerator Project
+#JavaScript MessageGenerator Project#
